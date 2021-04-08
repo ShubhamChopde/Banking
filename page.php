@@ -23,7 +23,7 @@
   ?>
   
       <div class="container-flex">
-      <!-- Introduction section -->
+      <!-- Greeting and Button Section -->
             <div class="row intro text-center"> <!-- py-1-->
               <div class="col-sm-12 col-md">
                 <div class="container services" > <!--my-5-->
@@ -43,6 +43,7 @@
               
               
             </div>
+              <!--Most Popular Section -->
             <div class="dialog">
               <h6>By clicking on "Register" button, you agree to the Terms of Service (Terms & Conditions) of usage of Internet Banking of SBI.</h6>
             </div>
@@ -61,6 +62,7 @@
                     <br>
                   </div>
             </div>
+              <!--Playstore Apps -->
             <div class="playstore row">
               <a href="https://apps.apple.com/us/app/yono-by-sbi/id1231393474">
               <button class="btn btn-outline-dark bg-dark text-light mx-4 my-3">
